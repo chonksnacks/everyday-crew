@@ -85,6 +85,7 @@ nav.scrolled {
 }
 .hero-title span {
   display: block;
+  font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   color: var(--ink-mid);
   padding-left: 0.12em;
